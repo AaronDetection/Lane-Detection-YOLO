@@ -1,4 +1,4 @@
-# Lane Detection — YOLOv8 + Visual Servoing
+# Lane Detection — YOLOv8 & Visual Servoing
 
 Real-time lane separator detection for an autonomous Tetrix robot, integrated into a visual servoing loop for trajectory control.
 
