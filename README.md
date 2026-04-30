@@ -2,6 +2,10 @@
 
 Real-time lane separator detection for an autonomous Tetrix robot, integrated into a visual servoing loop for trajectory control.
 
+***********************
+Find the Dataset .zip here: [Tetrix +800 images on Roboflow](https://app.roboflow.com/blueberriesaaron/tetrix-t1/models)
+**********************
+
 ---
 
 ## What this project does
