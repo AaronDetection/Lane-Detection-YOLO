@@ -47,4 +47,4 @@ Latency. The robot's camera feed needed sub-100ms inference per frame. Small hit
 
 ## Dataset
 
-[Tetrix T1 - v6 on Roboflow](https://roboflow.com) — 800+ manually captured images, custom dataset
+[Tetrix T1 - v6 on Roboflow](https://app.roboflow.com/blueberriesaaron/tetrix-t1/models) — 800+ manually captured images, custom dataset
